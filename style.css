@@ -1,0 +1,44 @@
+h1 {
+  text-align: center;
+  background-color: lightslategrey;
+  border-radius: 1cap;
+}
+.kr p {
+  display: inline-block;
+  background-color: darkgray;
+  margin: 0 180px;
+  cursor: pointer;
+  border: none;
+  border-radius: 4px;
+}
+
+.about p {
+  margin: 20px;
+}
+.My p {
+  -ms-text-combine-horizontal: all;
+  text-anchor: middle;
+  margin: 30px;
+}
+h2,
+h3 {
+  padding: 10px;
+}
+h2 {
+  font-size: x-large;
+}
+h3 {
+  font-size: larger;
+}
+h4 {
+  font-size: large;
+}
+h5 {
+  font-size: large;
+}
+body {
+  background-color: cornsilk;
+}
+.coloring p {
+  background-color: rgb(80, 95, 65);
+}
